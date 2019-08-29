@@ -5,12 +5,20 @@
     <link>https://beaudoinlab.github.io/</link>
       <atom:link href="https://beaudoinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Beaudoin Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019  Daniel Burkhardt</copyright>
     <image>
       <url>https://beaudoinlab.github.io/img/icon-192.png</url>
       <title>Beaudoin Lab</title>
       <link>https://beaudoinlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Research</title>
+      <link>https://beaudoinlab.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.github.io/research/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

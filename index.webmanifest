@@ -2,8 +2,8 @@
   "name": "Beaudoin Lab",
   "short_name": "Beaudoin Lab",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#0082db",
+  "background_color": "#0082db",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
