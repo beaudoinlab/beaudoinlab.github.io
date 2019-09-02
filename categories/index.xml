@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Beaudoin Lab</title>
-    <link>https://beaudoinlab.github.io/categories/</link>
-      <atom:link href="https://beaudoinlab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://beaudoinlab.org/categories/</link>
+      <atom:link href="https://beaudoinlab.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019  Daniel Burkhardt</copyright>
     <image>
-      <url>https://beaudoinlab.github.io/img/icon-192.png</url>
+      <url>https://beaudoinlab.org/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://beaudoinlab.github.io/categories/</link>
+      <link>https://beaudoinlab.org/categories/</link>
     </image>
     
   </channel>

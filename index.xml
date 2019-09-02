@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beaudoin Lab</title>
-    <link>https://beaudoinlab.github.io/</link>
-      <atom:link href="https://beaudoinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://beaudoinlab.org/</link>
+      <atom:link href="https://beaudoinlab.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Beaudoin Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019  Daniel Burkhardt</copyright>
     <image>
-      <url>https://beaudoinlab.github.io/img/icon-192.png</url>
+      <url>https://beaudoinlab.org/img/icon-192.png</url>
       <title>Beaudoin Lab</title>
-      <link>https://beaudoinlab.github.io/</link>
+      <link>https://beaudoinlab.org/</link>
     </image>
     
     <item>
       <title>Research</title>
-      <link>https://beaudoinlab.github.io/people/</link>
+      <link>https://beaudoinlab.org/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://beaudoinlab.github.io/people/</guid>
+      <guid>https://beaudoinlab.org/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://beaudoinlab.github.io/research/</link>
+      <link>https://beaudoinlab.org/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://beaudoinlab.github.io/research/</guid>
+      <guid>https://beaudoinlab.org/research/</guid>
       <description></description>
     </item>
     
