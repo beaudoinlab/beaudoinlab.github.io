@@ -5,12 +5,20 @@
     <link>https://beaudoinlab.org/tags/</link>
       <atom:link href="https://beaudoinlab.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019  Daniel Burkhardt</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019  Daniel Burkhardt</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beaudoinlab.org/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://beaudoinlab.org/tags/</link>
     </image>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://beaudoinlab.org/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.org/tags/source-themes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
