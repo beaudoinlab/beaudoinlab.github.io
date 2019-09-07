@@ -3,18 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://beaudoinlab.org/authors/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://beaudoinlab.org/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/news/preprint/</loc>
+    <loc>https://beaudoinlab.org/news/new-article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,6 +23,11 @@
     <loc>https://beaudoinlab.org/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/authors/jean-denis/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,12 +65,6 @@
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beaudoinlab.org/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -91,7 +85,7 @@
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/publication/</loc>
+    <loc>https://beaudoinlab.org/publications/</loc>
   </url>
   
   <url>
