@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>you | Beaudoin Lab</title>
+    <link>https://beaudoinlab.org/authors/you/</link>
+      <atom:link href="https://beaudoinlab.org/authors/you/index.xml" rel="self" type="application/rss+xml" />
+    <description>you</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019  Daniel Burkhardt</copyright>
+    <image>
+      <url>https://beaudoinlab.org/img/social-card.jpg</url>
+      <title>you</title>
+      <link>https://beaudoinlab.org/authors/you/</link>
+    </image>
+    
+    <item>
+      <title>You</title>
+      <link>https://beaudoinlab.org/members/you-phd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.org/members/you-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You</title>
+      <link>https://beaudoinlab.org/members/you-postdoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.org/members/you-postdoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

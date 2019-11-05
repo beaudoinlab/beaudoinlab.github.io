@@ -81,6 +81,15 @@
   </url>
   
   <url>
+    <loc>https://beaudoinlab.org/members/jean-denis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/members/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://beaudoinlab.org/post/</loc>
   </url>
   
@@ -98,6 +107,19 @@
   
   <url>
     <loc>https://beaudoinlab.org/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/members/you-phd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/members/you-postdoc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/authors/you/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
