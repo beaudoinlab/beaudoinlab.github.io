@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>https://beaudoinlab.org/news/practice-new-jdb/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beaudoinlab.org/categories/</loc>
   </url>
   
@@ -80,7 +85,15 @@
   </url>
   
   <url>
+    <loc>https://beaudoinlab.org/post/</loc>
+  </url>
+  
+  <url>
     <loc>https://beaudoinlab.org/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/talk/</loc>
   </url>
   
   <url>
