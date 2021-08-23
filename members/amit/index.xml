@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amit | Beaudoin Lab</title>
+    <link>https://beaudoinlab.org/members/amit/</link>
+      <atom:link href="https://beaudoinlab.org/members/amit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021  Daniel Burkhardt</copyright>
+    <image>
+      <url>https://beaudoinlab.org/img/social-card.jpg</url>
+      <title>Amit</title>
+      <link>https://beaudoinlab.org/members/amit/</link>
+    </image>
+    
+  </channel>
+</rss>
