@@ -73,7 +73,15 @@
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/amit/</loc>
+    <loc>https://beaudoinlab.org/__members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/__members/amit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/authors/amit/</loc>
   </url>
   
   <url>
@@ -81,19 +89,23 @@
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/collin/</loc>
+    <loc>https://beaudoinlab.org/__members/collin/</loc>
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/isha/</loc>
+    <loc>https://beaudoinlab.org/authors/collin/</loc>
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/jean-denis/</loc>
+    <loc>https://beaudoinlab.org/__members/isha/</loc>
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/</loc>
+    <loc>https://beaudoinlab.org/authors/isha/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beaudoinlab.org/__members/jean-denis/</loc>
   </url>
   
   <url>
@@ -109,19 +121,19 @@
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/sarah/</loc>
+    <loc>https://beaudoinlab.org/__members/sarah/</loc>
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/william/</loc>
+    <loc>https://beaudoinlab.org/authors/sarah/</loc>
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/you-phd/</loc>
+    <loc>https://beaudoinlab.org/__members/william/</loc>
   </url>
   
   <url>
-    <loc>https://beaudoinlab.org/members/you-postdoc/</loc>
+    <loc>https://beaudoinlab.org/authors/william/</loc>
   </url>
   
 </urlset>

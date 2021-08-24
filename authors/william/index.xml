@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William | Beaudoin Lab</title>
+    <link>https://beaudoinlab.org/authors/william/</link>
+      <atom:link href="https://beaudoinlab.org/authors/william/index.xml" rel="self" type="application/rss+xml" />
+    <description>William</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021  Beaudoin Lab</copyright>
+    <image>
+      <url>https://beaudoinlab.org/img/social-card.jpg</url>
+      <title>William</title>
+      <link>https://beaudoinlab.org/authors/william/</link>
+    </image>
+    
+  </channel>
+</rss>
