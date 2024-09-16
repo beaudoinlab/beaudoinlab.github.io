@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna | Beaudoin Lab</title>
+    <link>https://beaudoinlab.org/authors/anna/</link>
+      <atom:link href="https://beaudoinlab.org/authors/anna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024  Beaudoin Lab</copyright>
+    <image>
+      <url>https://beaudoinlab.org/img/social-card.jpg</url>
+      <title>Anna</title>
+      <link>https://beaudoinlab.org/authors/anna/</link>
+    </image>
+    
+  </channel>
+</rss>
