@@ -5,12 +5,23 @@
     <link>https://beaudoinlab.org/authors/anna/</link>
       <atom:link href="https://beaudoinlab.org/authors/anna/index.xml" rel="self" type="application/rss+xml" />
     <description>Anna</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024  Beaudoin Lab</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026  Beaudoin Lab</copyright>
     <image>
       <url>https://beaudoinlab.org/img/social-card.jpg</url>
       <title>Anna</title>
       <link>https://beaudoinlab.org/authors/anna/</link>
     </image>
+    
+    <item>
+      <title>Anna</title>
+      <link>https://beaudoinlab.org/authors/anna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.org/authors/anna/</guid>
+      <description>&lt;p&gt;Anna is a UConn Health Biomedical Sciences PhD student in the Genetics and Developmental Biology AoC. She graduated from University of Maine with a BS in Biochemistry and Molecular Biology. She then worked as a post-baccalaureate researcher in the Baker Lab at The Jackson Laboratory (Bar Harbor, ME), where she worked on chromatin regulation in mESCs.&lt;/p&gt;
+&lt;p&gt;At UConn Health, she is interested in 3&amp;rsquo;UTR-mediated translational control during early embryogenesis. As a second-year student, she was a awarded a position on the T32 UConn/JAX-GM Training Program in Genomics.&lt;/p&gt;
+&lt;p&gt;Outside of the lab, she enjoys hiking and finding cool insects.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

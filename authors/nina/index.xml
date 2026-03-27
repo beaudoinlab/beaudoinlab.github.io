@@ -5,12 +5,22 @@
     <link>https://beaudoinlab.org/authors/nina/</link>
       <atom:link href="https://beaudoinlab.org/authors/nina/index.xml" rel="self" type="application/rss+xml" />
     <description>Nina</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024  Beaudoin Lab</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026  Beaudoin Lab</copyright>
     <image>
       <url>https://beaudoinlab.org/img/social-card.jpg</url>
       <title>Nina</title>
       <link>https://beaudoinlab.org/authors/nina/</link>
     </image>
+    
+    <item>
+      <title>Nina</title>
+      <link>https://beaudoinlab.org/authors/nina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.org/authors/nina/</guid>
+      <description>&lt;p&gt;Xiaonan (Nina) Wang is a UConn Health Biomedical Sciences PhD student. She received her Bachelor of Science degree and Master of Science degree in Molecular and Cell Biology with concentration in Cell and Developmental Biology at the University of Connecticut, Storrs.
+During her time there, she worked on establishing transgenic zebrafish lines using the Tol2 Multisite Gateway system and studied actin-based cell adhesion dynamics in motile cells. In the Beaudoin lab, she is interested in characterizing RNA helicases and their roles in translational control during the maternal-to-zygotic transition in early vertebrate development. Outside the lab, she enjoys playing the classical guitar, reading, and looking for four-leaf clovers.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

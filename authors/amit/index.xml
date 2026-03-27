@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amit | Beaudoin Lab</title>
-    <link>https://beaudoinlab.org/authors/amit/</link>
-      <atom:link href="https://beaudoinlab.org/authors/amit/index.xml" rel="self" type="application/rss+xml" />
-    <description>Amit</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024  Beaudoin Lab</copyright>
+    <title>Srihari | Beaudoin Lab</title>
+    <link>http://localhost:1313/authors/amit/</link>
+      <atom:link href="http://localhost:1313/authors/amit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Srihari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026  Beaudoin Lab</copyright>
     <image>
-      <url>https://beaudoinlab.org/img/social-card.jpg</url>
-      <title>Amit</title>
-      <link>https://beaudoinlab.org/authors/amit/</link>
+      <url>http://localhost:1313/img/social-card.jpg</url>
+      <title>Srihari</title>
+      <link>http://localhost:1313/authors/amit/</link>
     </image>
     
   </channel>

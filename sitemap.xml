@@ -1,115 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://beaudoinlab.org/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/news/new-article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/authors/jean-denis/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/news/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/news/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/news/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/news/practice-new-jdb/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/authors/allyson/</loc>
-  </url>
-  
-  <url>
-    <loc>https://beaudoinlab.org/authors/amit/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/authors/anna/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/authors/nina/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/publications/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/people/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/research/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/authors/sanjucta/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://beaudoinlab.org/authors/sarah/</loc>
+  </url><url>
+    <loc>https://beaudoinlab.org/authors/srihari/</loc>
   </url>
-  
 </urlset>

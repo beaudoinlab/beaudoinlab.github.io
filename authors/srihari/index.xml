@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Srihari | Beaudoin Lab</title>
+    <link>https://beaudoinlab.org/authors/srihari/</link>
+      <atom:link href="https://beaudoinlab.org/authors/srihari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Srihari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026  Beaudoin Lab</copyright>
+    <image>
+      <url>https://beaudoinlab.org/img/social-card.jpg</url>
+      <title>Srihari</title>
+      <link>https://beaudoinlab.org/authors/srihari/</link>
+    </image>
+    
+    <item>
+      <title>Srihari</title>
+      <link>https://beaudoinlab.org/authors/srihari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.org/authors/srihari/</guid>
+      <description>&lt;p&gt;Currently, a PhD student in Biomedical Sciences at UConn Health, Srihari earned his bachelor’s degree in Biotechnology before pursuing a master’s degree in Biotechnology from the Indian Institute of Technology, Guwahati. During his time there, he was introduced to machine learning and deep learning in the Neural Engineering lab, where he began integrating computational approaches with biological research. He later expanded his expertise with a second master’s degree in Business Analytics and Project Management from the University of Connecticut, Hartford campus, further strengthening his data science and analytical skills. Prior to beginning his doctoral studies, he worked as a student data scientist in the Beaudoin lab, applying machine learning techniques to study RNA structures and their role in translational regulation.&lt;/p&gt;
+&lt;p&gt;His academic interests lie at the intersection of computational biology and molecular genetics, with a particular focus on RNA biology, including RNA G-quadruplexes and their influence on gene expression. In the Beaudoin lab, Srihari investigates how RNA structural elements regulate translation, leveraging both experimental and computational techniques to uncover underlying mechanisms.&lt;/p&gt;
+&lt;p&gt;Beyond his academic pursuits, Srihari enjoys story-driven video games, exploring philosophical ideas rooted in materialism, and engaging in discussions that bridge science and philosophy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

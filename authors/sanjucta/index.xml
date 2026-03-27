@@ -5,12 +5,21 @@
     <link>https://beaudoinlab.org/authors/sanjucta/</link>
       <atom:link href="https://beaudoinlab.org/authors/sanjucta/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanjucta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024  Beaudoin Lab</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026  Beaudoin Lab</copyright>
     <image>
       <url>https://beaudoinlab.org/img/social-card.jpg</url>
       <title>Sanjucta</title>
       <link>https://beaudoinlab.org/authors/sanjucta/</link>
     </image>
+    
+    <item>
+      <title>Sanjucta</title>
+      <link>https://beaudoinlab.org/authors/sanjucta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.org/authors/sanjucta/</guid>
+      <description>&lt;p&gt;Currently, a PhD student in Biomedical Sciences at UConn Health, Sanjucta earned her bachelor’s degree in Biotechnology from the Vellore Institute of Technology (VIT), Vellore campus, India. During her time there, she researched stress-responsive signalling modulation of mesenchymal stem cells in the Sen lab. Following her undergraduate studies, she pursued a master’s degree in Biotechnology from the Indian Institute of Technology, Guwahati, focusing her thesis on studying mechano-responsiveness in mesenchymal stem cells. Before joining UConn Health, Sanjucta worked as an Associate Content Developer at the EdTech company BYJU’S, where she crafted biology lesson modules for high school students. Her academic interests lie in stem cell biology, with a recent venture into RNA biology. In the Beaudoin lab, she explores the functional role of RNA structures in translational control of human cell lines and during vertebrate development. Beyond her academic pursuits, Sanjucta enjoys cooking Indian delicacies, going on nature walks, and dancing to Bengali songs written by the Indian poet, Rabindranath Tagore.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

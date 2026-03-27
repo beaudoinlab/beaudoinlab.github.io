@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Denis | Beaudoin Lab</title>
+    <link>http://localhost:1313/jean-denis/</link>
+      <atom:link href="http://localhost:1313/jean-denis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean Denis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026  Beaudoin Lab</copyright>
+    <image>
+      <url>http://localhost:1313/img/social-card.jpg</url>
+      <title>Jean Denis</title>
+      <link>http://localhost:1313/jean-denis/</link>
+    </image>
+    
+  </channel>
+</rss>

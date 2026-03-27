@@ -5,12 +5,21 @@
     <link>https://beaudoinlab.org/authors/allyson/</link>
       <atom:link href="https://beaudoinlab.org/authors/allyson/index.xml" rel="self" type="application/rss+xml" />
     <description>Allyson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024  Beaudoin Lab</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026  Beaudoin Lab</copyright>
     <image>
       <url>https://beaudoinlab.org/img/social-card.jpg</url>
       <title>Allyson</title>
       <link>https://beaudoinlab.org/authors/allyson/</link>
     </image>
+    
+    <item>
+      <title>Allyson</title>
+      <link>https://beaudoinlab.org/authors/allyson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://beaudoinlab.org/authors/allyson/</guid>
+      <description>&lt;p&gt;Allyson is currently a Research Assistant and Lab Manager in the Beaudoin Lab. She received her Bachelor of Science in Biology from Davidson College in North Carolina. While there, she was a member of the Hales Lab, studying mitochondrial shaping during cellular transition in Drosophila melanogaster. Prior to coming to UConn Health, she worked as a Field Technician for the Center for Genome Innovation at UConn Storrs campus. She completed her Master’s degree in Health Care Genetics at the University of Connecticut in 2023. She is managing our state-of-the-art fish facility and conducting computational data analysis to study RNA regulation during early embryogenesis. She is passionate about studying RNA dysregulation in genetic diseases and conducting computational analyses of large biological datasets. In her free time, Allyson also enjoys hikes, creative writing, and singing.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
